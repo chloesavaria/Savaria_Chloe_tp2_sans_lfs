@@ -11,3 +11,11 @@ Mon concept est de créer un jeu de type Lock and Key où le joueur explore un d
 ### Crédits des ressources
 
 Ressources créé par [Quaternius](https://quaternius.com/)
+Sons utiliser [Studio Youtube](https://studio.youtube.com/channel/UCzG0YJuHhyHbkE6heH5nHIw/music) et [Shapeforms
+](https://shapeforms.itch.io/shapeforms-audio-free-sfx) 
+
+Sons Youtube Studio avec crédits:
+
+The Halloween Dawn par Twin Musicom est protégée par une licence Creative Commons Attribution 4.0. https://creativecommons.org/licenses/by/4.0/
+Source : http://www.twinmusicom.org/song/248/the-halloween-dawn
+Artiste : http://www.twinmusicom.org
