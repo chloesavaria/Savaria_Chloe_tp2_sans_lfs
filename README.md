@@ -6,8 +6,7 @@ Développé avec Unreal Engine 5.6.1
 
 ## Concept
 
-Mon concept est de créer un jeu style Lock and Key où le joueur explore un donjon rempli de mystères et de secrets. Il devra activer des mécanismes comme des leviers ou des torches pour révéler des cachettes derrière des bibliothèques ou des murs coulissants. Le jeu comporte deux niveaux : le premier consiste à s’échapper d’une pièce où l’on est enfermé, et le second propose une exploration plus complexe avec des zones verrouillées. Il y aura aussi des quêtes secondaires, comme ramasser des pièces ou des objets pour acheter des informations auprès d’un personnage. Une ambiance sonore indiquera si les actions du joueur fonctionnent ou non.
-
+Mon concept est de créer un jeu de type Lock and Key où le joueur explore un donjon rempli de mystères et de secrets. Il devra trouver des clés, découvrir des cachettes derrière des bibliothèques ou des murs coulissants et éviter des pièges qui peuvent le faire recommencer. Le jeu comporte deux niveaux : dans le premier, le joueur tente de s’échapper mais réalise qu’il n’y a pas de sortie; il doit alors trouver une clé pour ouvrir un coffre qui le mènera au deuxième niveau. Ce dernier est plus vaste et propose un objectif supplémentaire : récupérer un livre et une clé pour accéder à la sortie, qui sera cette fois-ci bien réelle.
 
 ### Crédits des ressources
 
